@@ -1,3 +1,6 @@
+
+URL to back end repo -> https://github.com/johnpwilkinson/ghost_post_back_end
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
